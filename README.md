@@ -57,5 +57,23 @@ You suddenly are awaken to a noise outside your door...
     
     
 
+Alt ending ideas: 
+
+    hardware store:
+        slip and die on wd40
+        find another survivor in store (Glenn)
+            go with him to sanctuary? 
+                no: back to boat path 
+                yes: go with him
+                    Find sanctuary and Negan. Do you play baseball?
+                        yes: round 1. Negan charges. what do you do?  
+                            hit him: you miss. he hits you . you die
+                            dodge: you get out of the way. he hits you with backswing. you die
+                            run away: you outrun him and make it back to the woods. You lose Glenn. Florida Man finds you. 
+                        no: he hits you with bat. brains everywhere. you become one of the zombie mob.
+
+
     
+    
+
 
